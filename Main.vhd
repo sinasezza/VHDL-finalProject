@@ -13,7 +13,7 @@ ARCHITECTURE Main_ARCH OF Main IS
 ------------------------------------DECLARATION BEGIN
 
 
-------------------------------------END DECLARATION
+--------------------------------------END DECLARATION
 BEGIN
 
 END ARCHITECTURE;
