@@ -5,11 +5,11 @@ USE IEEE.NUMERIC_STD.ALL;
 USE IEEE.STD_LOGIC_SIGNED.ALL;
 
 
-ENTITY test_comp IS
+ENTITY comp_test IS
 
 END ENTITY;
 
-ARCHITECTURE test OF test_comp IS
+ARCHITECTURE test OF comp_test IS
 
 COMPONENT n_bit_comparator IS
     GENERIC (length : INTEGER := 4);
